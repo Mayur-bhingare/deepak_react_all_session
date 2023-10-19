@@ -1,0 +1,17 @@
+JSX ====> Javascript XML
+react --> html code
+
+jsx must always have a 1 parent
+class ===> className
+for ===> htmlFor
+style = {{ color:red }}
+dynamic ==> {} (jsx expression)
+
+// inbuild --> class
+// hooks ---> function 
+// hooks --> function to perform a complex task
+// in-build (react)
+// custom (user)
+// 3rd party hooks (lib)
+
+every hook start with "use"
