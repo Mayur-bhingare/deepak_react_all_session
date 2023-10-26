@@ -1,0 +1,5 @@
+.show-hover-effect:hover{
+  cursor: pointer;
+  transform: scale(1.02);
+  box-shadow: 0 0 10px 0 gray !important;
+}

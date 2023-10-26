@@ -1,0 +1,4 @@
+---> on page load we will call api
+---> store that data (state)
+---> 1 st cart product list
+---> 2nd single product details view
